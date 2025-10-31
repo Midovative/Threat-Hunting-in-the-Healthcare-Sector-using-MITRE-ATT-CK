@@ -3,7 +3,7 @@ Threat hunting framework for the healthcare sector leveraging MITRE ATT&amp;CK t
 # 🏥 Threat Hunting in the Healthcare Sector using MITRE ATT&CK
 
 A comprehensive framework and guide for conducting **threat hunting operations** within the healthcare sector.  
-This repository aligns healthcare cybersecurity practices with the **MITRE ATT&CK framework** to detect, analyze, and respond to threats targeting hospitals, clinics, and medical IT systems.
+This repository aligns healthcare cybersecurity practices with the **MITRE ATT&CK framework** to detect, analyze and respond to threats targeting hospitals, clinics and medical IT systems.
 
 ---
 

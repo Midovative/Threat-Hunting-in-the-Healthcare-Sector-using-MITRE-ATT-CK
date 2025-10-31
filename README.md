@@ -30,7 +30,6 @@ This project provides a structured **threat hunting model** to identify, map, an
 | Persistence | T1547 | Boot or Logon Autostart Execution | Implanting backdoors in medical PCs |
 | Exfiltration | T1041 | Exfiltration over C2 Channel | Stealing patient records |
 
-*(Expand this table as your hunt library grows.)*
 
 ---
 
